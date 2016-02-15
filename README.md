@@ -1,2 +1,2 @@
 # hello-world
-Learning to use Git hub
+Just another repository
